@@ -117,3 +117,28 @@
 ### Featured
 
 ### Research
+
+
+## How to Use Kaggle : Datasets
+
+* Types of Datasets
+    * Supported File Types
+* Searching for Datasets
+    * Newsfeed
+    * Datasets Listing
+    * Tags and Tag Pages
+* Creating a Dataset
+    * Navigating the Dataset Interface
+    * Creating Datasets from Various Connectors
+    * Updating Dataset Using JSON Config
+* Collaborating on Datasets
+    * Inviting Collaborators
+    * Using Notebooks with Dataset Collaborators
+* Resources for Starting a Data Project
+    * Using Datasets
+    * Using Notebooks
+    * Analysis
+    * Other
+* Technical Specifications
+
+### Most votes Datasets
