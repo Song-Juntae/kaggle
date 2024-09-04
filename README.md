@@ -1,39 +1,62 @@
 # kaggle
 
-## How to Use Kaggle : Competitions
+2010년 설립된 예측모델 및 분석 대회 플랫폼
+2017년 구글에 인수되었다
 
-* Types of Competitions
-    * Featured
-    * Research
-    * Getting Started
-    * Playground
-* Competition Formats
-    * Simple Competitions
-    * Two-stage Competitions
-    * Code Competitions
-    * Code Competition FAQ
-    * Joining a Competition
-* Forming a Team
-    * Types of Team Memberships
-    * Changing your Team Name
-    * Merging Teams
-    * Disbanding a Team
-* Making a Submission
-    * Leaderboard
-    * Submitting Predictions
-* Leakage
-    * What is Leakage?
-    * Examples
-    * Leakage in Competitions
-* Resources for Getting Started
-    * Getting Started
-    * Discussion
-    * Techniques
-* Cheating
+kaggle 대회를 참여하면서 데이터 분석 실력을 늘릴 생각입니다.
 
-## Types of Competitions
+분석 결과 시각화
 
-### Getting Started
+## 목차
+
+* How to Use Kaggle
+    * Competitions
+    * Datasets
+    * Notebooks
+    * Public API
+    * Efficient GPU Usage Tips
+    * Tensor Processing Units(TPUs)
+    * Models
+    * Competitions Setup
+    * Organizations
+
+* Competitions
+    * Types of Competitions
+        * Featured
+        * Research
+        * Getting Started
+        * Playground
+    * Competition Formats
+        * Simple Competitions
+        * Two-stage Competitions
+        * Code Competitions
+        * Code Competition FAQ
+        * Joining a Competition
+    * Forming a Team
+        * Types of Team Memberships
+        * Changing your Team Name
+        * Merging Teams
+        * Disbanding a Team
+    * Making a Submission
+        * Leaderboard
+        * Submitting Predictions
+    * Leakage
+        * What is Leakage?
+        * Examples
+        * Leakage in Competitions
+    * Resources for Getting Started
+        * Getting Started
+        * Discussion
+        * Techniques
+    * Cheating
+
+### Types of Competitions
+
+Featured
+
+Research
+
+Getting Started
     Spaceship Titanic
     Predict which passengers are transported to an alternate dimension
     Getting Started · 2744 Teams · Ongoing
@@ -114,12 +137,7 @@
     Getting Started · 1670 Teams · Ongoing
     Knowledge
 
-### Featured
-
-### Research
-
-
-## How to Use Kaggle : Datasets
+### How to Use Kaggle : Datasets
 
 * Types of Datasets
     * Supported File Types
